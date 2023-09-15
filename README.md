@@ -1,5 +1,5 @@
 ### Hi there 😄👋
-## I'm <b>Cheryl Ferandes</b>, a <b>Computer Engineering</b> grad with a passion for <b>crunching data</b>, building pipelines and <b>data visualization 📉</b>.
+## I'm <b>Cheryl Ferandes</b>, a <b>Computer Engineering</b> grad with a passion for <b>crunching data</b>, <b>building pipelines</b> and <b>data visualization 📉</b>.
 ## Currently I am working on projects to hone my data engineering skills.
 ## Feel free to reach me at cherylfernandes309@gmail.com 📫
 
