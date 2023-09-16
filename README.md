@@ -4,7 +4,6 @@
  Feel free to reach me at cherylfernandes309@gmail.com 📫  
  Check out my portfolio at: (https://fernandes-cheryl.github.io/cheryl.github.io/)  
 
- I hope this makes my profile "jump" out
 
 ![dino](https://github.com/fernandes-cheryl/fernandes-cheryl/assets/100081376/beacd503-6e9c-4ca1-ab1e-65ff154d064a)
 
