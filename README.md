@@ -5,5 +5,5 @@
  Check out my portfolio at: (https://fernandes-cheryl.github.io/cheryl.github.io/)  
 
 
-![dino]https://github.com/fernandes-cheryl/fernandes-cheryl/assets/100081376/beacd503-6e9c-4ca1-ab1e-65ff154d064a
+![dino](https://github.com/fernandes-cheryl/fernandes-cheryl/assets/100081376/beacd503-6e9c-4ca1-ab1e-65ff154d064a)
 
